@@ -2,7 +2,7 @@
 
 Collection of contemporary fiction from literary magazines, with full text extraction. Each entry contains `title`, `author`, `date` (year), `url`, and complete story `text`.
 
-## Main Dataset: `tier2_clean.json`
+## Main Dataset: `final.json`
 
 **Total Entries: 612** (as of October 4, 2025)
 
