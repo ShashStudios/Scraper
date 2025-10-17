@@ -4,27 +4,28 @@ A curated collection of contemporary fiction from leading literary magazines, fe
 
 ## 📊 Dataset Overview
 
-**Total Stories: 606**
+**Total Stories: 264**
 
 ### 📚 By Publication
 
 | Publication | Count | Percentage |
 |-------------|-------|------------|
-| **Joyland Publishing** | 467 | 77.1% |
-| **Granta** | 106 | 17.5% |
-| **Paris Review** | 28 | 4.6% |
-| **VQR** | 5 | 0.8% |
+| **Joyland Publishing** | 99 | 37.5% |
+| **Granta** | 106 | 40.2% |
+| **Paris Review** | 28 | 10.6% |
+| **Yale Review** | 26 | 9.8% |
+| **VQR** | 5 | 1.9% |
 
 ### 📅 By Year
 
 | Year | Count | Percentage |
 |------|-------|------------|
-| **2024** | 543 | 89.6% |
-| **2025** | 63 | 10.4% |
+| **2024** | 187 | 70.8% |
+| **2025** | 77 | 29.2% |
 
 ## 📁 Main Dataset: `FINAL.json`
 
-The complete dataset contains 606 unique fiction stories with full text content. Each entry includes:
+The complete dataset contains 264 unique fiction stories with full text content. Each entry includes:
 
 - **Title**: Story title
 - **Author**: Author name  
@@ -45,6 +46,7 @@ The complete dataset contains 606 unique fiction stories with full text content.
 - **Joyland Publishing**: https://joylandpublishing.com/fiction/
 - **Granta**: https://granta.com/fiction/
 - **The Paris Review**: https://www.theparisreview.org/fiction/
+- **The Yale Review**: https://yalereview.org/fiction
 - **VQR (Virginia Quarterly Review)**: https://www.vqronline.org/online/fiction
 
 ## 📋 Data Format
@@ -62,8 +64,8 @@ The complete dataset contains 606 unique fiction stories with full text content.
 ## 📈 Statistics
 
 - **Average story length**: ~24,000 characters
-- **File size**: 15.4 MB
-- **Coverage**: 4 major literary publications
+- **File size**: 6.2 MB
+- **Coverage**: 5 major literary publications
 - **Time period**: 2024-2025 contemporary fiction
 
 ---
